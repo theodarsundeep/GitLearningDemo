@@ -10,6 +10,7 @@ namespace FirstVSProjectOnGit.Controllers
     {
         public ActionResult Index()
         {
+            //Just added a comment to check how we commit things.
             return View();
         }
     }
