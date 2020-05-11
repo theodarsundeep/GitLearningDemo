@@ -1,0 +1,27 @@
+
+Table of Contents
+* Introduction.
+* Apache Kafka High level View
+* What and Why Kafka Connector?
+* Lets Understand Kafka Connector Architecture
+* Data Pipelines Management using Connctors!
+* Advantages of Kafka Connectors
+* Connector Examples and Community
+* Building Custom Connectors using Connect API
+* Conclusion
+* Acronyms
+* References
+    * https://docs.confluent.io/3.0.1/connect/index.html
+    * https://www.slideshare.net/KaufmanNg/data-pipelines-with-kafka-connect
+    * https://www.javatpoint.com/kafka-connect
+    * https://dzone.com/articles/getting-started-with-the-mongodb-connector-for-apa
+    * https://blog.timescale.com/blog/create-a-data-pipeline-with-timescaledb-and-kafka/
+    * https://gorillalogic.com/blog/how-to-pipe-your-data-with-kafka-connect/
+    * https://www.slideshare.net/ConfluentInc/how-to-build-an-apache-kafka-connector
+    * https://dzone.com/articles/kafka-connectors-without-kafka-1
+    * https://www.slideshare.net/ConfluentInc/why-build-an-apache-kafka-connector
+    
+* Apache Kafka® is the technology behind event streaming which is fast becoming the central nervous system of flexible, scalable, modern data architectures. Customers want to connect their databases, data warehouses, applications, microservices and more, to power the event streaming platform. To connect to Apache Kafka, you need a connector! 
+
+* 1818 Apache Kafka™ Connect API – Streaming Data Capture JDBC Mongo MySQL Elastic Cassandra HDFS Kafka Connect API Kafka Pipeline Connector Connector Connector Connector Connector Connector Sources Sinks Fault tolerant Manage hundreds of data sources and sinks Preserves data schema Part of Apache Kafka project Integrated within Conﬂuent Platform’s Control Center
+
